@@ -1,0 +1,32 @@
+.text-box h3:nth-child(1){
+    color: pink;
+}
+#greycol{
+    color: grey;
+}
+.text-box > div > p{
+    color: red;
+}
+.text-box p:nth-child(7){
+    color: green;
+}
+.text-box p:nth-child(8){
+    color: yellow;
+}
+.monday{
+    padding: 10px;
+    color: brown;
+}
+.вівторок{
+    width: 20px;
+    color: blue;
+}
+.середа{
+    background-color: chocolate;
+}
+.четвер{
+    color: pink;
+}
+.пятниця{
+color: gold;
+}
